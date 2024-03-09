@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table {
+    width: 80%;
+    font-size: 50px;
+    border: 7px solid blue;
+    text-align: left;
+}
+
+thead tr {
+    background-color: rgb(108, 228, 228);
+}
+
+tbody tr {
+    background-color: rgb(226, 72, 90);
+}
